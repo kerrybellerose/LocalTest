@@ -23,10 +23,9 @@ The following guidelines apply to applications created by Sitecore for release a
 
 6. Use pre-defined layout structures whenever possible.  If an appropriate layout structure does not exist, request one from the UX and SPEAK Teams.
 
-7. Use the Page-StyleSheet-File item to add a CSS file to your page.  ***TODO: Verify this with SPEAK Gatekeepers!***
+7. Use the Page-StyleSheet-File item to add a CSS file to your page. 
 
-8. Use the Page-Script-File item to add a JavaScript file to your page.  ***TODO: Verify this with SPEAK Gatekeepers!***
-
+8. Use the Page-Script-File item to add a JavaScript file to your page.  
 
 
 
