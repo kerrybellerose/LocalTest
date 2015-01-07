@@ -54,9 +54,9 @@ Please follow all the guidance in this section when implementing components in S
 [JavaScript](./Component%20Development/Coding%20Guidelines/JavaScript.md) - Guidelines for JavaScript component code.  
 [JavaScript for Core 1.1](./Component%20Development/Coding%20Guidelines/JavaScriptCore1.1.md) - Guidelines for JavaScript for Core 1.1 components.  
 [Razor View (CSHTML)](./Component%20Development/Coding%20Guidelines/RazorViewCSHTML.md) - Guidelines for CSHTML code that defines the component View.  
-[StyleSheets (Css and Less)](./Component%20Development/Coding%20Guidelines/StyleSheetCssLess.md) - Guidelines for StyleSheet code in CSS and Less.  
+[StyleSheets (Css and Less)](./Component%20Development/Coding%20Guidelines/StylesheetCssLess.md) - Guidelines for StyleSheet code in CSS and Less.  
 
 ### Items
 
-[Definition Items](./Component%20Development/Items/DefinitionItems.md) - Guidelines for component definition items.  
+[Definition Items](./Component%20Development/Items/DefinitionItem.md) - Guidelines for component definition items.  
 [Parameters Template](./Component%20Development/Items/ParametersTemplate.md) - Guidelines for component parameters templates.
