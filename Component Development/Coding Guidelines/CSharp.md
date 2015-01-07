@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Code Guidelines for C# 
 
 The following guidelines apply to C# for components.

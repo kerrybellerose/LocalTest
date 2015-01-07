@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Code Guidelines for Stylesheets
 
 The following guidelines apply to CSS and Less for components.

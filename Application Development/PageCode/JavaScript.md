@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Code Guidelines for JavaScript 
 
 The following guidelines apply to JavaScript for PageCode.

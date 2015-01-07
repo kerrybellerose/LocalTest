@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Baseline Component Functionality #
 
 All components must provide the following baseline functionality.

@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Artifact Naming and Location #
 
 The following guidelines apply to all components.

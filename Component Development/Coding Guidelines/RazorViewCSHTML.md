@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Code Guidelines for Razor Views 
 
 The following guidelines apply to CSHTML for components.

@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Component Definition Item Guidelines
 
 The following guidelines apply to all components.

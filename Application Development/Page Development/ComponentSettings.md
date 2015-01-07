@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Component Settings #
 
 1. Always provide a meaningful Id for components when you add them to the page definition item's Layout Details.  For example, use **OKButton**, not **Button1**.

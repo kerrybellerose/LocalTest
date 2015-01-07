@@ -1,5 +1,3 @@
-**State:** English Review Submitted
-
 # Dialog Definition Conventions #
 
 The following guidelines apply to dialogs created by Sitecore for release as part of the Sitecore platform.
